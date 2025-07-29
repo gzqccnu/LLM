@@ -3,8 +3,8 @@
 > Implement a LLM step by step with PyTorch from basic torch utilize to a LLM with MoE.
 > Code can run on **CPU**, **GPU**, **NPU(Ascend)**.  
 
-> ![Note]
-this repository is under coding.
+> ![NOTE]
+> this repository is under coding.
 
 |      Direcroty         |     Subsection   | Status |
 |------------------------|------------------|--------|
