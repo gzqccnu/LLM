@@ -5,6 +5,7 @@
 
 > [!NOTE]
 > this repository is under coding.
+> Cause I'm a student its process may slow.
 
 |      Direcroty         |     Subsection   | Status |
 |------------------------|------------------|--------|
