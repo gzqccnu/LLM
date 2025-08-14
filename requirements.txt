@@ -1,0 +1,14 @@
+torch
+matplotlib
+einops
+tensorboard
+transformers
+vllm
+deepspeed
+fastapi
+uvicorn
+onnx
+# CPU
+onnxruntime
+# GPU
+onnxruntime-gpu
