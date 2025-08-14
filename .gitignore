@@ -1,3 +1,12 @@
+# ignored directories
+
 __pycache__/
-*.pyc
+tokenizer/deepseek/
+embedding/deepseek-1.5B/
 .vscode/
+
+# ignored files
+*.pyc
+AddREADME.py
+*.zip
+*.pdf
